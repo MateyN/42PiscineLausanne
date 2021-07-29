@@ -1,0 +1,5 @@
+Credentials cache: API:8E8F31D1-C4F1-4974-AA15-5018B7F6E275
+        Principal: mnikolov@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul  7 17:33:51 2021  Jul  8 03:33:47 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
